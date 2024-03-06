@@ -17,3 +17,7 @@
 
 //fetch(https)
 //method:Push,get,,,,
+
+
+//how to use the axios
+
